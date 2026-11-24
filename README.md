@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Harjot%20Singh%20Makkar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cloud%20Site%20Reliability%20Engineer%20%7C%20Platform%20%26%20Infrastructure%20Engineering&descSize=16&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Harjot%20Singh%20Makkar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cloud%20Site%20Reliability%20Engineer%20%7C%20Platform%20and%20Infrastructure%20Engineering&descSize=16&descAlignY=60" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Kubernetes+(AKS+%2F+EKS)+%26+Declarative+GitOps+(FluxCD);Multi-Account+AWS+%26+Azure+Infrastructure+Automation;Observability%2C+DevSecOps+%26+Zero-Downtime+Migrations;Building+ATS+Certify+%E2%80%94+Parser-First+Resume+Engineering" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Kubernetes+(AKS+%2F+EKS)+and+Declarative+GitOps+(FluxCD);Multi-Account+AWS+and+Azure+Infrastructure+Automation;Observability%2C+DevSecOps+and+Zero-Downtime+Migrations;Building+ATS+Certify+%E2%80%94+Parser-First+Resume+Engineering" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -19,13 +19,13 @@
 
 ### About & Engineering Philosophy
 
-I work at the intersection of **Cloud Infrastructure**, **Platform Engineering**, and **Site Reliability Engineering**—operating remote, multi-account enterprise cloud environments across **AWS** and **Azure**[cite: 1]. 
+I work at the intersection of **Cloud Infrastructure**, **Platform Engineering**, and **Site Reliability Engineering**—operating remote, multi-account enterprise cloud environments across **AWS** and **Azure**.
 
-I treat infrastructure strictly as software: **declarative, version-controlled, observable, and recoverable**[cite: 1]. Rather than treating a successful deployment command as the finish line, I focus on automated verification, traffic-safe migrations, security gates, and eliminating repetitive operational toil[cite: 1].
+I treat infrastructure strictly as software: **declarative, version-controlled, observable, and recoverable**. Rather than treating a successful deployment command as the finish line, I focus on automated verification, traffic-safe migrations, security gates, and eliminating repetitive operational toil.
 
-* **Current Focus:** Production Kubernetes operations, GitOps delivery, multi-account cloud automation, and resilience engineering[cite: 1].
-* **Independent Product:** Architecting [**ATS Certify**](https://atscertify.com) — an ATS-first résumé engineering and validation platform combining deterministic parsing with targeted semantic analysis[cite: 1].
-* **Technical Writing:** Publishing deep dives on Kubernetes migrations, restore probes, and cloud automation on [**Substack**](https://harjotsinghmakkar.substack.com)[cite: 1].
+* **Current Focus:** Production Kubernetes operations, GitOps delivery, multi-account cloud automation, and resilience engineering.
+* **Independent Product:** Architecting [**ATS Certify**](https://atscertify.com) — an ATS-first résumé engineering and validation platform combining deterministic parsing with targeted semantic analysis.
+* **Technical Writing:** Publishing deep dives on Kubernetes migrations, restore probes, and cloud automation on [**Substack**](https://harjotsinghmakkar.substack.com).
 
 ---
 
@@ -36,15 +36,15 @@ I treat infrastructure strictly as software: **declarative, version-controlled, 
     <td width="50%" valign="top">
       <h4>Kubernetes & Traffic Engineering</h4>
       <ul>
-        <li><strong>Zero-Downtime Cluster Cutovers:</strong> Executed live AKS platform migrations via declarative FluxCD GitOps and Terraform workflows[cite: 1].</li>
-        <li><strong>Ingress Modernization:</strong> Migrated live production traffic from legacy Nginx Ingress to <strong>Envoy Gateway</strong> with zero dropped requests[cite: 1].</li>
+        <li><strong>Zero-Downtime Cluster Cutovers:</strong> Executed live AKS platform migrations via declarative FluxCD GitOps and Terraform workflows.</li>
+        <li><strong>Ingress Modernization:</strong> Migrated live production traffic from legacy Nginx Ingress to <strong>Envoy Gateway</strong> with zero dropped requests.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>Cloud Automation & FinOps</h4>
       <ul>
-        <li><strong>400+ Account Inventory:</strong> Built Python & Kubernetes CronJob automation using cross-account IAM roles and Vault, cutting recurring reporting effort by up to 90%[cite: 1].</li>
-        <li><strong>Event-Streaming Cleanup:</strong> Automated Terraform teardowns of idle Event Hubs capacity across 4 environments (~$70K annualized savings)[cite: 1].</li>
+        <li><strong>400+ Account Inventory:</strong> Built Python and Kubernetes CronJob automation using cross-account IAM roles and Vault, cutting recurring reporting effort by up to 90%.</li>
+        <li><strong>Event-Streaming Cleanup:</strong> Automated Terraform teardowns of idle Event Hubs capacity across 4 environments (~$70K annualized savings).</li>
       </ul>
     </td>
   </tr>
@@ -52,19 +52,74 @@ I treat infrastructure strictly as software: **declarative, version-controlled, 
     <td width="50%" valign="top">
       <h4>Reliability & Storage Pipelines</h4>
       <ul>
-        <li><strong>Verified Disaster Recovery:</strong> Engineered automated OpenSearch snapshot and restore-probe verification workflows to prove recovery readiness[cite: 1].</li>
-        <li><strong>Batch Pipeline Acceleration:</strong> Refactored sequential file-transfer workflows into validated batch pipelines, cutting benchmark runtime from ~33m to ~72s[cite: 1].</li>
+        <li><strong>Verified Disaster Recovery:</strong> Engineered automated OpenSearch snapshot and restore-probe verification workflows to prove recovery readiness.</li>
+        <li><strong>Batch Pipeline Acceleration:</strong> Refactored sequential file-transfer workflows into validated batch pipelines, cutting benchmark runtime from ~33m to ~72s.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>DevSecOps & CI/CD Governance</h4>
       <ul>
-        <li><strong>Reusable Security Gates:</strong> Authored GitHub Composite Actions integrating <strong>Wiz</strong>, <strong>Coverity</strong>, and <strong>Black Duck</strong> with automated severity parsing[cite: 1].</li>
-        <li><strong>Data-Platform Hardening:</strong> Triaged and remediated 170+ Critical/High vulnerabilities across Schema Registry infrastructure down to zero[cite: 1].</li>
+        <li><strong>Reusable Security Gates:</strong> Authored GitHub Composite Actions integrating <strong>Wiz</strong>, <strong>Coverity</strong>, and <strong>Black Duck</strong> with automated severity parsing.</li>
+        <li><strong>Data-Platform Hardening:</strong> Triaged and remediated 170+ Critical/High vulnerabilities across Schema Registry infrastructure down to zero.</li>
       </ul>
     </td>
   </tr>
 </table>
+
+---
+
+### Reference Architecture Showcase
+
+> *Sanitized architectural blueprints stored in `./assets/diagrams/`. Click each panel to inspect.*
+
+<details open>
+  <summary><strong>01. Multi-Account Cloud Inventory Automation (400+ Accounts)</strong></summary>
+  <br/>
+  <div align="center">
+    <img src="./assets/diagrams/400awsaccounts.svg" alt="Multi-Account AWS Inventory Architecture" width="92%" />
+  </div>
+  <br/>
+</details>
+
+<details>
+  <summary><strong>02. Zero-Downtime Kubernetes Cluster Cutover (GitOps + Terraform)</strong></summary>
+  <br/>
+  <div align="center">
+    <img src="./assets/diagrams/AKS_cutover.svg" alt="Zero-Downtime AKS Cutover Architecture" width="92%" />
+  </div>
+  <br/>
+</details>
+
+<details>
+  <summary><strong>03. Zero-Drop Ingress Modernization (Nginx to Envoy Gateway)</strong></summary>
+  <br/>
+  <div align="center">
+    <img src="./assets/diagrams/Envoy.svg" alt="Envoy Gateway Migration Architecture" width="92%" />
+  </div>
+  <br/>
+</details>
+
+<!-- UNCOMMENT ONCE backup.svg IS ADDED TO assets/diagrams/
+<details>
+  <summary><strong>04. OpenSearch Automated Snapshot & Restore-Probe Verification</strong></summary>
+  <br/>
+  <div align="center">
+    <img src="./assets/diagrams/backup.svg" alt="OpenSearch Disaster Recovery Probe Architecture" width="92%" />
+  </div>
+  <br/>
+</details>
+-->
+
+<!-- UNCOMMENT ONCE migration.svg IS ADDED TO assets/diagrams/
+<details>
+  <summary><strong>05. High-Throughput Storage & Cross-Boundary Migration Pipeline</strong></summary>
+  <br/>
+  <div align="center">
+    <img src="./assets/diagrams/migration.svg" alt="Storage and Cross-Boundary Migration Architecture" width="92%" />
+  </div>
+  <br/>
+</details>
+-->
 
 ---
 
