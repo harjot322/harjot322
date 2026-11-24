@@ -1,62 +1,124 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=750&lines=Harjot+Singh+Makkar;Cloud+Site+Reliability+Engineer;Kubernetes+%7C+GitOps+%7C+Terraform+%7C+AWS+%26+Azure" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Harjot%20Singh%20Makkar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cloud%20Site%20Reliability%20Engineer%20%7C%20Platform%20%26%20Infrastructure%20Engineering&descSize=16&descAlignY=60" width="100%" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Kubernetes+(AKS+%2F+EKS)+%26+Declarative+GitOps+(FluxCD);Multi-Account+AWS+%26+Azure+Infrastructure+Automation;Observability%2C+DevSecOps+%26+Zero-Downtime+Migrations;Building+ATS+Certify+%E2%80%94+Parser-First+Resume+Engineering" alt="Typing SVG" /></a>
+
+<br/>
 
 <p>
-  <strong>Building reliable, observable, and automated cloud platforms.</strong><br/>
-  <sub>Delhi, India &bull; Remote (US EST Overlap) &bull; B.Tech CSE '27 (MAIT)</sub>
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/harjotmakkar322"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://harjotsinghmakkar.substack.com"><img src="https://img.shields.io/badge/Technical_Writing-111111?style=flat-square&logo=substack&logoColor=FF6719" alt="Substack" /></a>
-  <a href="https://atscertify.com"><img src="https://img.shields.io/badge/ATS_Certify-111111?style=flat-square&logo=vercel&logoColor=white" alt="ATS Certify" /></a>
-  <a href="mailto:harjotdesk@gmail.com"><img src="https://img.shields.io/badge/Contact-harjotdesk@gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/harjotmakkar322"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://harjotsinghmakkar.substack.com"><img src="https://img.shields.io/badge/Substack_Writing-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
+  <a href="https://atscertify.com"><img src="https://img.shields.io/badge/ATS_Certify-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="ATS Certify" /></a>
+  <a href="mailto:harjotdesk@gmail.com"><img src="https://img.shields.io/badge/harjotdesk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
 
 ---
 
-### Overview
+### About & Engineering Philosophy
 
-I work at the intersection of **Cloud Infrastructure**, **Platform Engineering**, and **Site Reliability Engineering**—supporting remote, multi-account enterprise environments[cite: 1]. My approach treats infrastructure strictly as software: declarative, version-controlled, observable, and verifiable[cite: 1].
+I work at the intersection of **Cloud Infrastructure**, **Platform Engineering**, and **Site Reliability Engineering**—operating remote, multi-account enterprise cloud environments across **AWS** and **Azure**[cite: 1]. 
 
-* **Current Focus:** Production Kubernetes operations (AKS/EKS), GitOps delivery, multi-account cloud automation, and resilience engineering[cite: 1].
-* **Independent Build:** Architecting [**ATS Certify**](https://atscertify.com) — an ATS-first résumé engineering and validation platform combining deterministic parsing with targeted semantic analysis[cite: 1].
-* **Writing:** Publishing engineering deep dives on Kubernetes migrations, recovery verification, and infrastructure automation on [**Substack**](https://harjotsinghmakkar.substack.com)[cite: 1].
+I treat infrastructure strictly as software: **declarative, version-controlled, observable, and recoverable**[cite: 1]. Rather than treating a successful deployment command as the finish line, I focus on automated verification, traffic-safe migrations, security gates, and eliminating repetitive operational toil[cite: 1].
 
----
-
-### Core Engineering Scope
-
-| Domain | Focus & Execution |
-| :--- | :--- |
-| **Kubernetes & GitOps** | Production AKS/EKS operations, declarative FluxCD workflows, ingress modernization (Nginx to Envoy Gateway), and zero-downtime cluster cutovers[cite: 1]. |
-| **Cloud & IaC** | Multi-account AWS and Azure provisioning using Terraform and OpenTofu, IAM cross-account role patterns, and scheduled Kubernetes CronJobs[cite: 1]. |
-| **SRE & Observability** | SLI/SLO definition, telemetry pipelines with Prometheus, Grafana, and OpenTelemetry, and automated backup/restore verification probes[cite: 1]. |
-| **DevSecOps & Governance** | Reusable GitHub Composite Actions integrating Wiz, Coverity, and Black Duck alongside HashiCorp Vault secret workflows[cite: 1]. |
-| **Data & FinOps** | OpenSearch snapshot recovery, Schema Registry vulnerability remediation, and automated resource cleanup across Azure Event Hubs and Debezium pipelines[cite: 1]. |
+* **Current Focus:** Production Kubernetes operations, GitOps delivery, multi-account cloud automation, and resilience engineering[cite: 1].
+* **Independent Product:** Architecting [**ATS Certify**](https://atscertify.com) — an ATS-first résumé engineering and validation platform combining deterministic parsing with targeted semantic analysis[cite: 1].
+* **Technical Writing:** Publishing deep dives on Kubernetes migrations, restore probes, and cloud automation on [**Substack**](https://harjotsinghmakkar.substack.com)[cite: 1].
 
 ---
 
-### Production Stack
+### Production Engineering Highlights
 
-| Category | Technologies |
-| :--- | :--- |
-| **Cloud & IaC** | ![AWS](https://img.shields.io/badge/AWS-181717?style=flat-square&logo=amazon-aws&logoColor=FF9900) ![Azure](https://img.shields.io/badge/Azure-181717?style=flat-square&logo=microsoftazure&logoColor=0072C6) ![Terraform](https://img.shields.io/badge/Terraform-181717?style=flat-square&logo=terraform&logoColor=7B42BC) ![OpenTofu](https://img.shields.io/badge/OpenTofu-181717?style=flat-square&logo=opentofu&logoColor=FFDA18) ![Ansible](https://img.shields.io/badge/Ansible-181717?style=flat-square&logo=ansible&logoColor=white) |
-| **Containers & GitOps** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-181717?style=flat-square&logo=kubernetes&logoColor=326CE5) ![Docker](https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker&logoColor=2496ED) ![Helm](https://img.shields.io/badge/Helm-181717?style=flat-square&logo=helm&logoColor=white) ![FluxCD](https://img.shields.io/badge/FluxCD-181717?style=flat-square&logo=flux&logoColor=5468FF) ![Envoy](https://img.shields.io/badge/Envoy_Gateway-181717?style=flat-square&logo=envoyproxy&logoColor=AC6199) |
-| **Observability & Security** | ![Prometheus](https://img.shields.io/badge/Prometheus-181717?style=flat-square&logo=prometheus&logoColor=E6522C) ![Grafana](https://img.shields.io/badge/Grafana-181717?style=flat-square&logo=grafana&logoColor=F46800) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-181717?style=flat-square&logo=opentelemetry&logoColor=white) ![Vault](https://img.shields.io/badge/HashiCorp_Vault-181717?style=flat-square&logo=vault&logoColor=FFEC6E) ![SonarQube](https://img.shields.io/badge/SonarQube-181717?style=flat-square&logo=sonarqube&logoColor=4E9BCD) |
-| **CI/CD & Automation** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-181717?style=flat-square&logo=githubactions&logoColor=2088FF) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-181717?style=flat-square&logo=gitlab&logoColor=FC6D26) ![Python](https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=3776AB) ![Bash](https://img.shields.io/badge/Bash-181717?style=flat-square&logo=gnubash&logoColor=white) ![Go](https://img.shields.io/badge/Go-181717?style=flat-square&logo=go&logoColor=00ADD8) |
-| **Data & Streaming** | ![OpenSearch](https://img.shields.io/badge/OpenSearch-181717?style=flat-square&logo=opensearch&logoColor=005EB8) ![Kafka](https://img.shields.io/badge/Apache_Kafka-181717?style=flat-square&logo=apachekafka&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-181717?style=flat-square&logo=mysql&logoColor=4479A1) ![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=flat-square&logo=mongodb&logoColor=47A248) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Kubernetes & Traffic Engineering</h4>
+      <ul>
+        <li><strong>Zero-Downtime Cluster Cutovers:</strong> Executed live AKS platform migrations via declarative FluxCD GitOps and Terraform workflows[cite: 1].</li>
+        <li><strong>Ingress Modernization:</strong> Migrated live production traffic from legacy Nginx Ingress to <strong>Envoy Gateway</strong> with zero dropped requests[cite: 1].</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Cloud Automation & FinOps</h4>
+      <ul>
+        <li><strong>400+ Account Inventory:</strong> Built Python & Kubernetes CronJob automation using cross-account IAM roles and Vault, cutting recurring reporting effort by up to 90%[cite: 1].</li>
+        <li><strong>Event-Streaming Cleanup:</strong> Automated Terraform teardowns of idle Event Hubs capacity across 4 environments (~$70K annualized savings)[cite: 1].</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Reliability & Storage Pipelines</h4>
+      <ul>
+        <li><strong>Verified Disaster Recovery:</strong> Engineered automated OpenSearch snapshot and restore-probe verification workflows to prove recovery readiness[cite: 1].</li>
+        <li><strong>Batch Pipeline Acceleration:</strong> Refactored sequential file-transfer workflows into validated batch pipelines, cutting benchmark runtime from ~33m to ~72s[cite: 1].</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>DevSecOps & CI/CD Governance</h4>
+      <ul>
+        <li><strong>Reusable Security Gates:</strong> Authored GitHub Composite Actions integrating <strong>Wiz</strong>, <strong>Coverity</strong>, and <strong>Black Duck</strong> with automated severity parsing[cite: 1].</li>
+        <li><strong>Data-Platform Hardening:</strong> Triaged and remediated 170+ Critical/High vulnerabilities across Schema Registry infrastructure down to zero[cite: 1].</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
+
+### Tech Stack & Tooling
+
+**Cloud & Infrastructure as Code**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+**Containers, Orchestration & Networking**  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=for-the-badge&logo=flux&logoColor=white)
+![Envoy](https://img.shields.io/badge/Envoy_Gateway-AC6199?style=for-the-badge&logo=envoyproxy&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Observability, CI/CD & DevSecOps**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+**Languages, Automation & Data Platforms**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### GitHub Metrics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harjot322&theme=transparent&title_color=F7F7F7&text_color=A0A0A0&icon_color=F7F7F7&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harjot322&theme=transparent&title_color=F7F7F7&text_color=A0A0A0&hide_border=true&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harjot322&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harjot322&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=harjot322&icon=0&color=11" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harjot322&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harjot322&label=PROFILE+VIEWS&color=0E75B6&style=for-the-badge" alt="Profile Views" />
 </div>
