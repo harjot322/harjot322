@@ -1,27 +1,62 @@
-# 💫 About Me:
-Hi, I’m Harjot Singh Makkar, a Senior Cloud SRE currently taming clouds (the digital kind) for one of the largest U.S. insurance companies. I juggle GitLab CI, Terraform, and AWS like a tech circus performer and have Docker, Kubernetes, and DevOps tools in my bag of tricks. Dabbled in Machine Learning, mastered DSA, C++, Python, and even AI tools—because why not? During my stint as an AI Prompt Engineer Intern at edera.in, I proved I could turn caffeine and curiosity into innovative solutions. When I’m not solving tech puzzles, I’m gaming, dreaming big, and convincing people that ‘debugging’ is a lifestyle.
+<div align="center">
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=750&lines=Harjot+Singh+Makkar;Cloud+Site+Reliability+Engineer;Kubernetes+%7C+GitOps+%7C+Terraform+%7C+AWS+%26+Azure" alt="Typing SVG" /></a>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/flame_322) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/17.haruuu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harjotmakkar322) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/shrunkvase) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@flamexnxx) 
+<p>
+  <strong>Building reliable, observable, and automated cloud platforms.</strong><br/>
+  <sub>Delhi, India &bull; Remote (US EST Overlap) &bull; B.Tech CSE '27 (MAIT)</sub>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harjot322&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harjot322&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harjot322&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <a href="https://linkedin.com/in/harjotmakkar322"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://harjotsinghmakkar.substack.com"><img src="https://img.shields.io/badge/Technical_Writing-111111?style=flat-square&logo=substack&logoColor=FF6719" alt="Substack" /></a>
+  <a href="https://atscertify.com"><img src="https://img.shields.io/badge/ATS_Certify-111111?style=flat-square&logo=vercel&logoColor=white" alt="ATS Certify" /></a>
+  <a href="mailto:harjotdesk@gmail.com"><img src="https://img.shields.io/badge/Contact-harjotdesk@gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harjot322&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harjot322&limit=5&theme=aura&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harjot322&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Overview
+
+I work at the intersection of **Cloud Infrastructure**, **Platform Engineering**, and **Site Reliability Engineering**—supporting remote, multi-account enterprise environments[cite: 1]. My approach treats infrastructure strictly as software: declarative, version-controlled, observable, and verifiable[cite: 1].
+
+* **Current Focus:** Production Kubernetes operations (AKS/EKS), GitOps delivery, multi-account cloud automation, and resilience engineering[cite: 1].
+* **Independent Build:** Architecting [**ATS Certify**](https://atscertify.com) — an ATS-first résumé engineering and validation platform combining deterministic parsing with targeted semantic analysis[cite: 1].
+* **Writing:** Publishing engineering deep dives on Kubernetes migrations, recovery verification, and infrastructure automation on [**Substack**](https://harjotsinghmakkar.substack.com)[cite: 1].
+
+---
+
+### Core Engineering Scope
+
+| Domain | Focus & Execution |
+| :--- | :--- |
+| **Kubernetes & GitOps** | Production AKS/EKS operations, declarative FluxCD workflows, ingress modernization (Nginx to Envoy Gateway), and zero-downtime cluster cutovers[cite: 1]. |
+| **Cloud & IaC** | Multi-account AWS and Azure provisioning using Terraform and OpenTofu, IAM cross-account role patterns, and scheduled Kubernetes CronJobs[cite: 1]. |
+| **SRE & Observability** | SLI/SLO definition, telemetry pipelines with Prometheus, Grafana, and OpenTelemetry, and automated backup/restore verification probes[cite: 1]. |
+| **DevSecOps & Governance** | Reusable GitHub Composite Actions integrating Wiz, Coverity, and Black Duck alongside HashiCorp Vault secret workflows[cite: 1]. |
+| **Data & FinOps** | OpenSearch snapshot recovery, Schema Registry vulnerability remediation, and automated resource cleanup across Azure Event Hubs and Debezium pipelines[cite: 1]. |
+
+---
+
+### Production Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Cloud & IaC** | ![AWS](https://img.shields.io/badge/AWS-181717?style=flat-square&logo=amazon-aws&logoColor=FF9900) ![Azure](https://img.shields.io/badge/Azure-181717?style=flat-square&logo=microsoftazure&logoColor=0072C6) ![Terraform](https://img.shields.io/badge/Terraform-181717?style=flat-square&logo=terraform&logoColor=7B42BC) ![OpenTofu](https://img.shields.io/badge/OpenTofu-181717?style=flat-square&logo=opentofu&logoColor=FFDA18) ![Ansible](https://img.shields.io/badge/Ansible-181717?style=flat-square&logo=ansible&logoColor=white) |
+| **Containers & GitOps** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-181717?style=flat-square&logo=kubernetes&logoColor=326CE5) ![Docker](https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker&logoColor=2496ED) ![Helm](https://img.shields.io/badge/Helm-181717?style=flat-square&logo=helm&logoColor=white) ![FluxCD](https://img.shields.io/badge/FluxCD-181717?style=flat-square&logo=flux&logoColor=5468FF) ![Envoy](https://img.shields.io/badge/Envoy_Gateway-181717?style=flat-square&logo=envoyproxy&logoColor=AC6199) |
+| **Observability & Security** | ![Prometheus](https://img.shields.io/badge/Prometheus-181717?style=flat-square&logo=prometheus&logoColor=E6522C) ![Grafana](https://img.shields.io/badge/Grafana-181717?style=flat-square&logo=grafana&logoColor=F46800) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-181717?style=flat-square&logo=opentelemetry&logoColor=white) ![Vault](https://img.shields.io/badge/HashiCorp_Vault-181717?style=flat-square&logo=vault&logoColor=FFEC6E) ![SonarQube](https://img.shields.io/badge/SonarQube-181717?style=flat-square&logo=sonarqube&logoColor=4E9BCD) |
+| **CI/CD & Automation** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-181717?style=flat-square&logo=githubactions&logoColor=2088FF) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-181717?style=flat-square&logo=gitlab&logoColor=FC6D26) ![Python](https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=3776AB) ![Bash](https://img.shields.io/badge/Bash-181717?style=flat-square&logo=gnubash&logoColor=white) ![Go](https://img.shields.io/badge/Go-181717?style=flat-square&logo=go&logoColor=00ADD8) |
+| **Data & Streaming** | ![OpenSearch](https://img.shields.io/badge/OpenSearch-181717?style=flat-square&logo=opensearch&logoColor=005EB8) ![Kafka](https://img.shields.io/badge/Apache_Kafka-181717?style=flat-square&logo=apachekafka&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-181717?style=flat-square&logo=mysql&logoColor=4479A1) ![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=flat-square&logo=mongodb&logoColor=47A248) |
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harjot322&theme=transparent&title_color=F7F7F7&text_color=A0A0A0&icon_color=F7F7F7&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harjot322&theme=transparent&title_color=F7F7F7&text_color=A0A0A0&hide_border=true&layout=compact" height="150" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=harjot322&icon=0&color=11" alt="Profile Views" />
+</div>
