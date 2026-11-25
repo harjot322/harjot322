@@ -164,7 +164,7 @@ I treat infrastructure strictly as software: **declarative, version-controlled, 
 ### GitHub Metrics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harjot322&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=2" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harjot322&theme=tokyonight&hide_border=true&count_private=true&v=3" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harjot322&theme=tokyonight&hide_border=true&layout=compact&v=2" height="165" alt="Top Languages" />
 </div>
 
