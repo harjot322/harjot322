@@ -23,9 +23,9 @@ I work at the intersection of **Cloud Infrastructure**, **Platform Engineering**
 
 I treat infrastructure strictly as software: **declarative, version-controlled, observable, and recoverable**. Rather than treating a successful deployment command as the finish line, I focus on automated verification, traffic-safe migrations, security gates, and eliminating repetitive operational toil.
 
-* **Current Focus:** Production Kubernetes operations, GitOps delivery, multi-account cloud automation, and resilience engineering.
-* **Independent Product:** Architecting [**ATS Certify**](https://atscertify.com) — an ATS-first résumé engineering and validation platform combining deterministic parsing with targeted semantic analysis.
-* **Technical Writing:** Publishing deep dives on Kubernetes migrations, restore probes, and cloud automation on [**Substack**](https://harjotsinghmakkar.substack.com).
+- **Current Focus:** Production Kubernetes operations, GitOps delivery, multi-account cloud automation, and resilience engineering.
+- **Independent Product:** Architecting [**ATS Certify**](https://atscertify.com) — an ATS-first résumé engineering and validation platform combining deterministic parsing with targeted semantic analysis.
+- **Technical Writing:** Publishing deep dives on Kubernetes migrations, restore probes, and cloud automation on [**Substack**](https://harjotsinghmakkar.substack.com).
 
 ---
 
@@ -164,8 +164,8 @@ I treat infrastructure strictly as software: **declarative, version-controlled, 
 ### GitHub Metrics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harjot322&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harjot322&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harjot322&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=2" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harjot322&theme=tokyonight&hide_border=true&layout=compact&v=2" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
